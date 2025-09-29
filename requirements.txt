@@ -1,3 +1,6 @@
+jupyterlab
+jupyterlab-git
+jupyter-ai[all]
 ipywidgets
 matplotlib
 pandas
